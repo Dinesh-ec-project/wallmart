@@ -1,4 +1,4 @@
-git cherry 
+2 git cherry 
 git stash .. changes2
 i am in master branch
 hi i am from dev branch
