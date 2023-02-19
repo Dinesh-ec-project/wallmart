@@ -1,2 +1,0 @@
-from stage
-from dev
